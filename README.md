@@ -85,3 +85,7 @@ The metric shows what is happening. The query defines what should be checked. Th
 If one part is missing, the alerting flow may not work properly.
 
 ---
+## Clean Usage Note
+
+This repository uses simple sample names and diagrams only.
+It does not include copied diagrams, screenshots, tenancy details, OCIDs, real notification topics, real email addresses, or project-specific information.
